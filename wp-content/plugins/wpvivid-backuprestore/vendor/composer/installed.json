@@ -539,7 +539,7 @@
             {
                 "name": "Jordi Boggiano",
                 "email": "j.boggiano@seld.be",
-                "homepage": "http://seld.be/"
+                "homepage": "http://seld.be"
             }
         ],
         "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
@@ -636,7 +636,7 @@
             }
         ],
         "description": "PHP Secure Communications Library - Pure-PHP implementations of RSA, AES, SSH2, SFTP, X.509 etc.",
-        "homepage": "http://phpseclib.sourceforge.net/",
+        "homepage": "http://phpseclib.sourceforge.net",
         "keywords": [
             "BigInteger",
             "aes",
@@ -938,6 +938,6 @@
             }
         ],
         "description": "Symfony EventDispatcher Component",
-        "homepage": "https://symfony.com/"
+        "homepage": "https://symfony.com"
     }
 ]

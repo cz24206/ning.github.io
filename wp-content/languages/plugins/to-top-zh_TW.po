@@ -1,0 +1,400 @@
+# Translation of Plugins - To Top - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - To Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-03-11 16:40:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - To Top - Stable (latest release)\n"
+
+#: admin/inc/ctp-tabs-removal.php:70
+msgid "Permission denied!"
+msgstr "使用權限遭拒。"
+
+#: admin/inc/ctp-tabs-removal.php:67
+msgid "Invalid Nonce"
+msgstr "無效的單次有效隨機碼。"
+
+#: admin/inc/ctp-tabs-removal.php:83
+msgid "Connection Error. Please try again."
+msgstr "連線發生錯誤，請再試一次。"
+
+#: admin/partials/to-top-admin-display.php:37
+msgid "Turn On Catch Themes & Catch Plugin tabs"
+msgstr "啟用 [Catch Themes] 及 [Catch Plugins] 分頁"
+
+#: admin/partials/to-top-admin-display.php:32
+msgid "If you want to turn off Catch Themes & Catch Plugins tabs option in Add Themes and Add Plugins page, please uncheck the following option."
+msgstr "如果網站管理員要在 [安裝佈景主題] 及 [安裝外掛] 頁面停用 [Catch Themes] 及 [Catch Plugins] 分頁，請停用以下選項。"
+
+#: admin/partials/to-top-admin-display.php:27
+msgid "Catch Themes & Catch Plugins Tabs"
+msgstr "[Catch Themes] 及 [Catch Plugins] 分頁"
+
+#: admin/inc/CatchThemesThemePlugin.php:162
+msgid "Themes by CatchThemes"
+msgstr "CatchThemes 開發的佈景主題"
+
+#: admin/inc/CatchThemesThemePlugin.php:444
+msgctxt "Plugin Installer"
+msgid "Catch Plugins"
+msgstr "Catch Plugins"
+
+#. Author URI of the plugin
+#: to-top.php
+msgid "https://catchplugins.com/"
+msgstr "https://catchplugins.com/"
+
+#. Plugin URI of the plugin
+#: to-top.php
+msgid "https://catchplugins.com/plugins/to-top/"
+msgstr "https://catchplugins.com/plugins/to-top/"
+
+#: admin/partials/to-top-admin-display.php:77
+msgid "We have a great line of support team and support documentation. You do not need to worry about how to use the plugins we provide, just refer to our Tech Support Forum. Further, if you need to do advanced customization to your website, you can always hire our theme customizer!"
+msgstr "我們有優異的技術支援團隊及相關線上說明，使用者不須擔心外掛的使用方式，遇到問題時造訪技術支援論壇即可。此外，如果網站需要進階客製化，可以與我們洽詢短期雇用佈景主題開發者。"
+
+#: admin/partials/to-top-admin-display.php:76
+msgid "Incredible Support"
+msgstr "優異的技術支援"
+
+#: admin/partials/to-top-admin-display.php:72
+msgid "It is extremely lightweight. You do not need to worry about it affecting the space and speed of your website."
+msgstr "這個外掛十分輕量化，網站管理員不須擔心它會耗用網站儲存空間及影響網站速度。"
+
+#: admin/partials/to-top-admin-display.php:71
+msgid "Lightweight"
+msgstr "輕量化"
+
+#: admin/partials/to-top-admin-display.php:67
+msgid "You don’t have to worry if you have a slightly different or complicated theme installed on your website. It supports all the themes on WordPress and makes your website more striking and playful."
+msgstr "網站管理員不必擔心網站安裝了略微不同或複雜功能的佈景主題，這個外掛支援全部 WordPress 佈景主題，並能讓網站更引人注目、更加有趣。"
+
+#: admin/partials/to-top-admin-display.php:66
+msgid "Supports all themes on WordPress"
+msgstr "支援全部 WordPress 佈景主題"
+
+#: admin/partials/to-top-admin-display.php:19
+#: admin/partials/to-top-admin-display.php:61
+msgid "Features"
+msgstr "外掛特色"
+
+#: admin/partials/to-top-admin-display.php:18
+msgid "Dashboard"
+msgstr "控制台"
+
+#: admin/partials/sidebar.php:44
+msgid "check our free plugins."
+msgstr "查看免費外掛"
+
+#: admin/partials/sidebar.php:43
+msgid "Check out our Free WordPress Plugins and get the taste of our service without affecting your wallet."
+msgstr "請參考我們開發的免費 WordPress 外掛，這些外掛能在不需要額外預算的情況下使用我們提供的服務。"
+
+#: admin/partials/sidebar.php:42
+msgid "Free Plugins"
+msgstr "免費外掛"
+
+#: admin/partials/sidebar.php:34
+msgid "Check our premium plugins."
+msgstr "查看付費版外掛"
+
+#: admin/partials/sidebar.php:34
+msgid "Check out our secured Premium WordPress Plugins to enhance and add extra functionalities to your website. An exceptional way to get the most out of WordPress!"
+msgstr "請參考我們開發安全的付費 WordPress 外掛，這些外掛能增強及新增網站額外功能，這是一種充分利用 WordPress 的絕佳方式。"
+
+#: admin/partials/sidebar.php:33
+msgid "Premium Plugins"
+msgstr "付費版外掛"
+
+#: admin/partials/sidebar.php:25
+msgid "Check our free themes."
+msgstr "查看免費佈景主題"
+
+#: admin/partials/sidebar.php:25
+msgid "Check out our collection of Free WordPress Themes that are clean, simple and feature-rich."
+msgstr "請參考我們開發的簡潔、易用、功能豐富的免費 WordPress 佈景主題。"
+
+#: admin/partials/sidebar.php:24
+msgid "Free Themes"
+msgstr "免費佈景主題"
+
+#: admin/partials/sidebar.php:17
+msgid "Check our premium themes."
+msgstr "查看付費版佈景主題"
+
+#: admin/partials/sidebar.php:17
+msgid "Check out our simple, clean and responsive Premium WordPress Themes that come with an array of crucial features with a superior functionality."
+msgstr "請參考我們開發的簡潔、易用、回應式設計的付費 WordPress 佈景主題，這些佈景主題提供一系列重要、優異的功能。"
+
+#: admin/partials/sidebar.php:16
+msgid "Premium Themes"
+msgstr "付費版佈景主題"
+
+#: admin/partials/sidebar.php:11
+msgid "Recommendations"
+msgstr "推薦項目"
+
+#: admin/partials/footer.php:18
+msgid "Support"
+msgstr "技術支援"
+
+#: admin/partials/footer.php:17
+msgid "View Plugins"
+msgstr "檢視外掛"
+
+#: admin/partials/footer.php:16
+msgid "View Themes"
+msgstr "檢視佈景主題"
+
+#. Author of the plugin
+#: to-top.php admin/partials/footer.php:11
+msgid "Catch Plugins"
+msgstr "Catch Plugins"
+
+#: admin/partials/to-top-dashboard.php:175
+msgid "Insert Image"
+msgstr "插入圖片"
+
+#. Plugin Name of the plugin
+#: to-top.php admin/partials/to-top-admin-display.php:11
+msgid "To Top"
+msgstr "To Top"
+
+#: admin/partials/to-top-dashboard.php:250
+msgid "Enable Auto Hide"
+msgstr "啟用自動隱藏"
+
+#: admin/partials/to-top-dashboard.php:25
+msgid "Plugin Options Saved."
+msgstr "外掛設定已儲存。"
+
+#: admin/class-to-top-admin.php:636 admin/partials/to-top-dashboard.php:260
+msgid "Auto Hide Time (secs)"
+msgstr "自動隱藏時間 (秒)"
+
+#: admin/class-to-top-admin.php:545 admin/partials/to-top-dashboard.php:206
+msgid "Location"
+msgstr "位置"
+
+#: admin/class-to-top-admin.php:498 admin/partials/to-top-dashboard.php:180
+msgid "Image Width (px)"
+msgstr "圖片寬度 (px)"
+
+#: admin/class-to-top-admin.php:383 admin/class-to-top-admin.php:482
+#: admin/partials/to-top-dashboard.php:91
+#: admin/partials/to-top-dashboard.php:172
+msgid "Image"
+msgstr "圖片"
+
+#: admin/class-to-top-admin.php:316
+msgid "To Top Options"
+msgstr "To Top 選項"
+
+#: admin/class-to-top-admin.php:147
+msgid "To Top Settings"
+msgstr "To Top 設定"
+
+#: admin/class-to-top-admin.php:133 admin/partials/to-top-dashboard.php:51
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-to-top-admin.php:157
+msgid "You do not have sufficient permissions to access this page."
+msgstr "目前的登入身分沒有存取這個頁面的權限。"
+
+#: admin/class-to-top-admin.php:425 admin/partials/to-top-dashboard.php:134
+msgid "Icon Background Color"
+msgstr "圖示背景色彩"
+
+#: admin/partials/to-top-dashboard.php:41
+msgid "Customizer"
+msgstr "外觀自訂器"
+
+#: admin/class-to-top-admin.php:323 admin/partials/to-top-dashboard.php:58
+msgid "Basic Settings"
+msgstr "基本設定"
+
+#: admin/class-to-top-admin.php:334 admin/partials/to-top-dashboard.php:63
+msgid "Scroll Offset (px)"
+msgstr "捲動偏移量 (px)"
+
+#: admin/class-to-top-admin.php:335 admin/partials/to-top-dashboard.php:68
+msgid "Number of pixels to be scrolled before the button appears"
+msgstr "按鈕出現前需要捲動的偏移量。"
+
+#: admin/class-to-top-admin.php:355 admin/partials/to-top-dashboard.php:74
+msgid "Icon Opacity (%)"
+msgstr "圖示不透明度 (%)"
+
+#: admin/class-to-top-admin.php:380 admin/partials/to-top-dashboard.php:88
+msgid "Icon Using Dashicons"
+msgstr "使用 Dashicons 圖示"
+
+#: admin/class-to-top-admin.php:381 admin/partials/to-top-dashboard.php:89
+msgid "Icon Using Genericons"
+msgstr "使用 Genericons 圖示"
+
+#: admin/class-to-top-admin.php:382 admin/partials/to-top-dashboard.php:90
+msgid "Icon Using Font Awesome Icons"
+msgstr "使用 Font Awesome 圖示"
+
+#: admin/class-to-top-admin.php:395 admin/partials/to-top-dashboard.php:107
+msgid "Select Icon Type"
+msgstr "選取圖示類型"
+
+#: admin/class-to-top-admin.php:410 admin/partials/to-top-dashboard.php:124
+msgid "Icon Color"
+msgstr "圖示色彩"
+
+#: admin/class-to-top-admin.php:440 admin/partials/to-top-dashboard.php:144
+msgid "Icon Size (px)"
+msgstr "圖示尺寸 (px)"
+
+#: admin/class-to-top-admin.php:460 admin/partials/to-top-dashboard.php:153
+msgid "Border Radius (%)"
+msgstr "框線圓角半徑 (%)"
+
+#: admin/class-to-top-admin.php:461 admin/partials/to-top-dashboard.php:158
+msgid "0 will make the icon background square, 50 will make it a circle"
+msgstr "設定為 0 會讓圖示背景成為正方形，設定為 50 會讓圖示背景成為圓形。"
+
+#: admin/class-to-top-admin.php:519 admin/partials/to-top-dashboard.php:189
+msgid "Image Alt"
+msgstr "圖片替代文字"
+
+#: admin/class-to-top-admin.php:534 admin/partials/to-top-dashboard.php:201
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+#: admin/class-to-top-admin.php:551 admin/partials/to-top-dashboard.php:211
+msgid "Bottom Right"
+msgstr "右下方"
+
+#: admin/class-to-top-admin.php:552 admin/partials/to-top-dashboard.php:212
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: admin/class-to-top-admin.php:553 admin/partials/to-top-dashboard.php:213
+msgid "Top Right"
+msgstr "右上方"
+
+#: admin/class-to-top-admin.php:554 admin/partials/to-top-dashboard.php:214
+msgid "Top Left"
+msgstr "左上方"
+
+#: admin/class-to-top-admin.php:566 admin/partials/to-top-dashboard.php:221
+msgid "Margin X (px)"
+msgstr "邊界水平位置 (px)"
+
+#: admin/class-to-top-admin.php:586 admin/partials/to-top-dashboard.php:230
+msgid "Margin Y (px)"
+msgstr "邊界垂直位置 (px)"
+
+#: admin/class-to-top-admin.php:606
+msgid "Check to show on WP-ADMIN"
+msgstr "圖示顯示於管理後台"
+
+#: admin/class-to-top-admin.php:607 admin/partials/to-top-dashboard.php:244
+msgid "Button will be shown on admin section"
+msgstr "啟用這項設定後，按鈕會顯示於管理後台。"
+
+#: admin/class-to-top-admin.php:621
+msgid "Check to Enable Auto Hide"
+msgstr "啟用自動隱藏"
+
+#: admin/class-to-top-admin.php:637 admin/partials/to-top-dashboard.php:265
+msgid "Button will be auto hidden after this duration in seconds, if enabled"
+msgstr "啟用這項設定後，按鈕會在指定時間後自動隱藏。"
+
+#: admin/class-to-top-admin.php:657
+msgid "Check to Hide on Small Devices"
+msgstr "在小螢幕裝置隱藏圖示"
+
+#: admin/class-to-top-admin.php:658 admin/partials/to-top-dashboard.php:276
+msgid "Button will be hidden on small devices when the width below matches"
+msgstr "啟用這項設定後，按鈕會在符合下方寬度設定的小螢幕裝置隱藏。"
+
+#: admin/class-to-top-admin.php:672 admin/partials/to-top-dashboard.php:282
+msgid "Small Device Max Width (px)"
+msgstr "小螢幕裝置最大寬度"
+
+#: admin/class-to-top-admin.php:673 admin/partials/to-top-dashboard.php:287
+msgid "Button will be hidden on devices with lesser or equal width"
+msgstr "啟用這項設定後，按鈕會在小於或等於螢幕寬度的裝置隱藏。"
+
+#: admin/class-to-top-admin.php:703 admin/partials/to-top-dashboard.php:306
+msgid "Check to Reset All Settings"
+msgstr "使用這項功能便會將全部設定重設為預設值"
+
+#: admin/class-to-top-admin.php:704
+msgid "Caution: All data will be lost. Refresh the page after save to view full effects."
+msgstr "警告: 這項操作會清除全部外掛資料。儲存設定後重新整理頁面便會看到結果。"
+
+#: admin/partials/to-top-dashboard.php:43
+msgid "Want Live Preview? Change the settings from "
+msgstr "如需即時預覽，請至指定位置進行設定: "
+
+#: admin/partials/to-top-dashboard.php:99
+#: admin/partials/to-top-dashboard.php:164
+#: admin/partials/to-top-dashboard.php:198
+#: admin/partials/to-top-dashboard.php:294
+#: admin/partials/to-top-dashboard.php:314
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: admin/partials/to-top-dashboard.php:102
+msgid "Icon Settings"
+msgstr "圖示設定"
+
+#: admin/partials/to-top-dashboard.php:167
+msgid "Image Settings"
+msgstr "圖片設定"
+
+#: admin/partials/to-top-dashboard.php:175
+msgid "Change Image"
+msgstr "變更圖片"
+
+#: admin/partials/to-top-dashboard.php:239
+msgid "Show on WP-ADMIN?"
+msgstr "圖示顯示於管理後台"
+
+#: admin/partials/to-top-dashboard.php:243
+#: admin/partials/to-top-dashboard.php:254
+#: admin/partials/to-top-dashboard.php:275
+msgid "Check to Enable"
+msgstr "啟用這項設定"
+
+#: admin/partials/to-top-dashboard.php:271
+msgid "Hide on Small Devices?"
+msgstr "在小螢幕裝置隱藏圖示"
+
+#: admin/partials/to-top-dashboard.php:302
+msgid "Reset All Settings"
+msgstr "重設全部設定"
+
+#: admin/partials/to-top-dashboard.php:307
+msgid "Caution: All data will be lost"
+msgstr "警告: 這項操作會清除全部外掛資料。"
+
+#: public/class-to-top-public.php:182 public/class-to-top-public.php:192
+#: public/class-to-top-public.php:202
+msgid "Scroll Up"
+msgstr "Scroll Up"
+
+#. Description of the plugin
+#: to-top.php
+msgid "To Top plugin allows the visitor as well as admin to easily scroll back to the top of the page, with fully customizable options and ability to use image."
+msgstr "To Top 外掛能讓網站訪客及網站管理員輕鬆將頁面捲動回頁面頂端，並具備完整客製化選項及使用圖片的功能。"
+
+#: admin/class-to-top-admin.php:375 admin/partials/to-top-dashboard.php:83
+msgid "Style"
+msgstr "樣式"
+
+#: admin/class-to-top-admin.php:692 admin/partials/to-top-dashboard.php:297
+msgid "Reset Settings"
+msgstr "重設設定"
